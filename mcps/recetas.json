@@ -1,0 +1,42 @@
+{
+  "pasta": {
+    "nombre": "Pasta Carbonara",
+    "ingredientes": ["pasta", "huevos", "panceta", "queso"],
+    "tiempo": "20 min"
+  },
+  "chivito": {
+    "nombre": "Chivito",
+    "ingredientes": ["pan", "carne", "lechuga", "tomate", "huevo", "queso"],
+    "tiempo": "20 min"
+  },
+  "pollo": {
+    "nombre": "Pollo Teriyaki",
+    "ingredientes": ["pollo", "salsa de soja", "miel", "ajo"],
+    "tiempo": "25 min"
+  },
+  "fideos": {
+    "nombre": "Fideos con Queso",
+    "ingredientes": ["fideos", "queso"],
+    "tiempo": "7 min"
+  },
+  "tortilla": {
+    "nombre": "Tortilla de Papas",
+    "ingredientes": ["papas", "huevos", "cebolla", "aceite"],
+    "tiempo": "35 min"
+  },
+  "milanesa": {
+    "nombre": "Milanesa de Carne",
+    "ingredientes": ["carne", "huevo", "pan rallado", "aceite"],
+    "tiempo": "30 min"
+  },
+  "guiso": {
+    "nombre": "Guiso de Lentejas",
+    "ingredientes": ["lentejas", "carne", "zanahoria", "cebolla", "pimiento", "tomate"],
+    "tiempo": "45 min"
+  },
+  "guiso_vegetariano": {
+    "nombre": "Guiso Vegetariano",
+    "ingredientes": ["lentejas", "zanahoria", "cebolla", "pimiento", "tomate", "calabaza"],
+    "tiempo": "40 min"
+  }
+}

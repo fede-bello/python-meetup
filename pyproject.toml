@@ -1,0 +1,15 @@
+[project]
+name = "python-meetup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "contextily>=1.6.2",
+    "fastmcp>=2.13.0.2",
+    "folium>=0.20.0",
+    "geopandas>=1.1.1",
+    "matplotlib>=3.10.7",
+    "requests>=2.32.5",
+    "shapely>=2.1.2",
+]

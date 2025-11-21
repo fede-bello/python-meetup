@@ -1,0 +1,37 @@
+{
+  "menu-1": {
+    "nombre": "Menú Vegetariano - Variado",
+    "recetas": [
+      "Huevo Revuelto",
+      "Fideos con Queso",
+      "Pasta Vegetariana"
+    ]
+  },
+  "menu-2": {
+    "nombre": "Menú Vegetariano",
+    "recetas": [
+      "Pasta Carbonara",
+      "Tortilla de Papas",
+      "Guiso Vegetariano"
+    ]
+  },
+  "menu-3": {
+    "nombre": "Menú Vegetariano 3 Días",
+    "recetas": [
+      "Fideos con Queso",
+      "Omelette de Verduras",
+      "Ensalada Caprese",
+      "Pasta con Salsa Pesto",
+      "Arroz con Frijoles",
+      "Quesadillas de Queso y Verduras"
+    ]
+  },
+  "menu-4": {
+    "nombre": "Menú Vegetariano 3 Días",
+    "recetas": [
+      "Fideos con Queso",
+      "Tortilla de Papas",
+      "Guiso Vegetariano"
+    ]
+  }
+}

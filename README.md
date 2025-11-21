@@ -21,19 +21,19 @@ Para utilizar los MCP servers, agrega la siguiente configuración a tu archivo `
 ```json
 "mcpServers": {
   "recetas": {
-    "command": "/Users/fbello/.local/bin/uv",
+    "command": "/Users/<username>/.local/bin/uv",
     "args": [
       "--directory",
-      "/Users/fbello/develop/python-meetup/",
+      "/Users/<path_to_project>/",
       "run",
       "mcps/recetas.py"
     ]
   },
   "menus": {
-    "command": "/Users/fbello/.local/bin/uv",
+    "command": "/Users/<username>/.local/bin/uv",
     "args": [
       "--directory",
-      "/Users/fbello/develop/python-meetup/",
+      "/Users/<path_to_project>/",
       "run",
       "mcps/menus.py"
     ]
